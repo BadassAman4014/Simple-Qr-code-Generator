@@ -2,7 +2,7 @@
 
 A beautiful, modern QR code generator built with React, TypeScript, and Tailwind CSS. Generate, download, share, and manage QR codes with an elegant, production-ready interface.
 
-![QR Code Generator Preview]()
+![QR Code Generator Preview](https://simple-qr-code-generator-ten.vercel.app/)
 
 ## ✨ Features
 
