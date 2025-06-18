@@ -246,10 +246,6 @@ When reporting bugs, please include:
 - Expected vs actual behavior
 - Screenshots if applicable
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **QRCode.js**: Excellent QR code generation library
