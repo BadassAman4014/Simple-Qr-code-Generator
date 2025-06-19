@@ -151,8 +151,6 @@ const DEFAULT_OPTIONS: QROptions = {
 - **Local Storage**: All modern browsers
 - **CSS Grid**: All modern browsers
 
-## 🛠️ Development
-
 ### Available Scripts
 
 ```bash
